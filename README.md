@@ -1,5 +1,4 @@
-# Influencer-Impact-analysis-tool
-# 📌 Instagram Influencer Impact Analysis Tool
+# 📌 Instagram Influencer Impact Analysis Tool-hi
 
 ## 🚀 Project Overview
 This project processes the **Instagram Influencer Dataset** and uploads it to **PostgreSQL (structured data)** and **Neo4j (graph-based influencer relationships)**. The goal is to analyze **influencer impact, engagement, audience demographics, and network influence** to help brands find **high-impact influencers**.
