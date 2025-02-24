@@ -11,7 +11,7 @@ This project processes the **Instagram Influencer Dataset** and uploads it to **
 | `influencers.txt` | List of influencers with **username, category, followers, followees, total posts**. |
 | `post_info.txt` | Contains **post IDs, influencer usernames, sponsorship labels, JSON metadata filenames, and image filenames**. |
 | `json_files.zip` | **Post metadata JSON files**, containing **likes, comments, timestamps, sponsorship info, captions, hashtags, user tags**. |
-| `profiles_influencers.zip` | Influencer profile details (**bio, email, phone, profile pic, language, niche**). |
+| `profiles_influencers.zip` | Influencer profile details (**++bio, email, phone, profile pic, language, niche**). |
 | `profiles_brands.zip` | Brand profile details (**bio, website, category, followers**). |
 | `JSON-Image_files_mapping.txt` | Mapping of **JSON files to corresponding images** (Not used in this project). |
 
