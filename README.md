@@ -18,7 +18,14 @@ This project processes the **Instagram Influencer Dataset** and uploads it to **
 **📌 Note:** This project **does not process images**.
 
 ---
-
+## **Backend**
+- create virtual env
+mkvirtualenv [env name]
+- run virtual env
+workon [env name]
+- install libraries
+pip install requirements.txt
+- 
 ## 🛠️ **Tech Stack**
 - **Database (Structured Data)** → PostgreSQL  
 - **Database (Graph Data - Social Network Analysis)** → Neo4j  
@@ -30,5 +37,3 @@ This project processes the **Instagram Influencer Dataset** and uploads it to **
 ## 📌 **Installation & Setup**
 ### **1️⃣ Install Dependencies**
 Run the following command to install the required libraries:
-```bash
-pip install pandas sqlalchemy psycopg2 py2neo

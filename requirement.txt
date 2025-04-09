@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+python-louvain
+pandas
+numpy
+seaborn
+matplotlib
+networkx
+SQLAlchemy
