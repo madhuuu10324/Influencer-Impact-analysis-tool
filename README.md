@@ -1,4 +1,4 @@
-# 📌 Instagram Influencer Impact Analysis Tool-hi
+# 📊 Influencer Analysis App (Streamlit)
 
 ## 🚀 Project Overview
 This project processes the **Instagram Influencer Dataset** and uploads it to **PostgreSQL (structured data)** and **Neo4j (graph-based influencer relationships)**. The goal is to analyze **influencer impact, engagement, audience demographics, and network influence** to help brands find **high-impact influencers**.
@@ -14,8 +14,6 @@ This project processes the **Instagram Influencer Dataset** and uploads it to **
 | `profiles_influencers.zip` | Influencer profile details (**bio, email, phone, profile pic, language, niche**). |
 | `profiles_brands.zip` | Brand profile details (**bio, website, category, followers**). |
 | `JSON-Image_files_mapping.txt` | Mapping of **JSON files to corresponding images** (Not used in this project). |
-
-# 📊 Influencer Analysis App (Streamlit)
 
 A Streamlit-based interactive dashboard to analyze and visualize influencer data with advanced filtering, ranking (PageRank), and community detection (Louvain algorithm). Connects to a database, supports influencer profiling, and includes dynamic visualizations.
 
